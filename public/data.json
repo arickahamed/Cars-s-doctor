@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1, "name": "Oil Change", "price": 100, "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, doloremque iusto nostrum dolorum eius ex aliquid non? Voluptatum, soluta sapiente labore eveniet cumque eum sed veritatis animi nostrum aperiam vero aliquam praesentium debitis qui, blanditiis atque voluptate perferendis unde repellat.", "img": "https://i.ibb.co/f4gqsFK/rsz-1car4.jpg"
+    },
+
+    {
+        "id": 2, "name": "Wheel Alignment", "price": 198, "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, doloremque iusto nostrum dolorum eius ex aliquid non? Voluptatum, soluta sapiente labore eveniet cumque eum sed veritatis animi nostrum aperiam vero aliquam praesentium debitis qui, blanditiis atque voluptate perferendis unde repellat.", "img": "https://i.ibb.co/XSw42wR/rsz-1car6.jpg"
+    },
+
+    {
+        "id": 3, "name": "Engine Diagnostic", "price": 100, "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, doloremque iusto nostrum dolorum eius ex aliquid non? Voluptatum, soluta sapiente labore eveniet cumque eum sed veritatis animi nostrum aperiam vero aliquam praesentium debitis qui, blanditiis atque voluptate perferendis unde repellat.", "img": "https://i.ibb.co/t44wFkT/rsz-1car8.jpg"
+    },
+
+    {
+        "id": 4, "name": "Break Checkup", "price": 270, "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, doloremque iusto nostrum dolorum eius ex aliquid non? Voluptatum, soluta sapiente labore eveniet cumque eum sed veritatis animi nostrum aperiam vero aliquam praesentium debitis qui, blanditiis atque voluptate perferendis unde repellat.", "img": "https://i.ibb.co/6ydm8pk/rsz-car1.jpg"
+    },
+
+    {
+        "id": 5, "name": "Wash & Glassing", "price": 150, "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, doloremque iusto nostrum dolorum eius ex aliquid non? Voluptatum, soluta sapiente labore eveniet cumque eum sed veritatis animi nostrum aperiam vero aliquam praesentium debitis qui, blanditiis atque voluptate perferendis unde repellat.", "img": "https://i.ibb.co/M6PRTHt/rsz-car2.jpg"
+    },
+
+    {
+        "id": 6, "name": "Complte Analysis", "price": 400, "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, doloremque iusto nostrum dolorum eius ex aliquid non? Voluptatum, soluta sapiente labore eveniet cumque eum sed veritatis animi nostrum aperiam vero aliquam praesentium debitis qui, blanditiis atque voluptate perferendis unde repellat.", "img": "https://i.ibb.co/chyRX7T/rsz-car3.jpg"
+    }
+]
+
+
+
+

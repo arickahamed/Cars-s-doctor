@@ -1,0 +1,19 @@
+.register {
+    margin: 10px auto ;
+    width: 100vw;
+    padding: 10px;
+    display: block;
+}
+
+.register form {
+    margin: 0 auto;
+    width: fit-content;
+    border: 1px solid lightgray;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* input[type=submit] {
+    margin: 50px;
+    border: 1px solid blue;
+} */
